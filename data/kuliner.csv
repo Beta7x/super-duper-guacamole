@@ -1,0 +1,594 @@
+Id UMKM,Nama UMKM,Jenis Makanan,Rating,Kategori,Alamat
+1,Bakso Al gibran,Bakso iga,4,Enak banget,"Jl. Raya Barat Jatibarang, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+2,Bakso Al gibran,Bakso tahu,3,Enak,"Jl. Raya Barat Jatibarang, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+3,Bakso Al gibran,Bakso beranak,2,Biasa,"Jl. Raya Barat Jatibarang, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+4,Bakso Sintal,Bakso urat,4,Enak banget,"Jl. Raya Tim., Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+5,Bakso Sintal,Bakso Biasa,2,Biasa,"Jl. Raya Tim., Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+6,Bakso Sintal,Bakso tahu,3,Enak,"Jl. Raya Tim., Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+7,Bakso om  Heri,Bakso urat,3,Enak,"Jl. Raya Jatibarang - Brebes, Buaran, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+8,Bakso om Heri,Bakso telor,4,Enak banget,"Jl. Raya Jatibarang - Brebes, Buaran, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+9,Bakso om Heri,Bakso mercon,4,Enak banget,"Jl. Raya Jatibarang - Brebes, Buaran, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+10,Kedai R3,Bakso iga,4,Enak banget,"Alamat: Jl. Pramuka No.116, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+11,Kedai R3,Bakso seafod,3,Enak,"Alamat: Jl. Pramuka No.116, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+12,Kedai R3,Bakso telor,3,Enak,"Alamat: Jl. Pramuka No.116, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+13,Bakso Intan,Bakso urat,4,Enak banget,"Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52262"
+14,Bakso Intan,Bakso tahu,2,Biasa,"Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 5226"
+15,Bakso Intan,Bakso spesial,4,Enak banget,"Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52262"
+16,Pondok bakso Granat,Bakso babat,4,Enak banget,"23M4+R48, Jalan Raya, Jatibarang, Jatibarang Lor, Jatibarang, Brebes Regency, Central Java 52261"
+17,Pondok bakso Granat,Bakso dua granat,3,Enak,"23M4+R48, Jalan Raya, Jatibarang, Jatibarang Lor, Jatibarang, Brebes Regency, Central Java 52261"
+18,Pondok bakso Granat,Bakso biasa,2,Biasa,"23M4+R48, Jalan Raya, Jatibarang, Jatibarang Lor, Jatibarang, Brebes Regency, Central Java 52261"
+19,Bakso tak terduga,Bakso urat,3,Enak,"Jl. Abimanyu No.30, Talang Bata, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+20,Bakso tak terduga,Bakso  telor,3,Enak,"Jl. Abimanyu No.30, Talang Bata, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+21,Bakso tak terduga,Bakso campur,4,Enak banget,"Jl. Abimanyu No.30, Talang Bata, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+22,Bakso jarwo,Bakso kwetiau,2,Biasa,"23M4+VPH Kios baru, pasar, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+23,Bakso jarwo,Bakso urat,3,Enak,"23M4+VPH Kios baru, pasar, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+24,Bakso jarwo,Bakso telor,2,Biasa,"23M4+VPH Kios baru, pasar, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+25,Bakso jarwo,Bakso biasa,3,Enak,"23M4+VPH Kios baru, pasar, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+26,Bakso GM wonogiri,Bakso tahu,4,Enak banget,"jatibarang kidul RT 04/06, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+27,Bakso GM wonogiri,Bakso tetelan,4,Enak banget,"jatibarang kidul RT 04/06, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+28,Bakso GM wonogiri,Bakso urat,3,Enak,"jatibarang kidul RT 04/06, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+29,Bakso Mas Gondrong,Bakso telor puyuh,3,Enak,"Jl. Raya Barat Jatibarang, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 5226"
+30,Bakso Mas Gondrong,Bakso kecil,2,Biasa,"Jl. Raya Barat Jatibarang, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+31,Bakso Mas Gondrong,Bakso beranak,3,Enak,"Jl. Raya Barat Jatibarang, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+32,Bakso Urat 6000 Maspink,Bakso selimut telor,4,Enak banget,"Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+33,Bakso Urat 6000 Maspink,Bakso urat,3,Enak,"Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+34,Bakso Urat 6000 Maspink,Bakso telur,2,Biasa,"Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+35,Kedai Bakso Gajah Mungkur,Bakso sapi,4,Enak banget,"Jl. Raya Tim. No.98, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+36,Kedai Bakso Gajah Mungkur,Mie bakso,3,Enak,"Jl. Raya Tim. No.98, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+37,Kedai Bakso Gajah Mungkur,Bakso urat,4,Enak banget,"Jl. Raya Tim. No.98, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+38,Bakso tetelan mas Bagong,Bakso tetelan,3,Enak,"Jl. Raya Jati Barang-Brebes, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+39,Bakso tetelan mas Bagong,Bakso biasa,1,Tidak enak,"Jl. Raya Jati Barang-Brebes, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+40,Bakso tetelan mas Bagong,Bakso telor,2,Biasa,"Jl. Raya Jati Barang-Brebes, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+41,Pondok Bakso prima sari,Soto tauco,4,Enak banget,"Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+42,Pondok Bakso prima sari,Bakso telor,4,Enak banget,"Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+43,Pondok Bakso prima sari,Basko urat,3,Enak,"Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+44,Bakso idola,Bakso biasa,2,Biasa," Jl. Raya Lengkong No.1, Kalipucang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+45,Bakso idola,Bakso beranak,4, Enak banget," Jl. Raya Lengkong No.1, Kalipucang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+46,Bakso idola,Bakso urat,4,Enak banget," Jl. Raya Lengkong No.1, Kalipucang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+47,Bakso mamih,Bakso soto tauco,4,Enak banget,"Jl. Raya Tim., Penumbukan, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+48,Bakso mamih,Bakso telor,3,Enak,"Jl. Raya Tim., Penumbukan, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+49,Bakso mamih,Bakso petir,3,Enak,"Jl. Raya Tim., Penumbukan, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+50,Bakso Petir,Bakso sumsum sapi,4,Enak banget,"Kebonagung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+51,Bakso Petir,Basko telor,2,Biasa ,"Kebonagung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+52,Bakso Petir,Bakso urat,1,Tidak enak,"Kebonagung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+53,Bakso Boom Solo 3,Bakso mercon,3,Enak,"Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+54,Bakso Boom Solo 3,Bakso telor,3,Enak,"Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+55,Bakso Boom Solo 3,Soto tauco,3,Enak,"Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+56,Bakso & soto bang udin,Bakso urat,2,Biasa,"23R2+PJ6, Jalan Raya Jati Barang, Janegara, Jatibarang, Brebes Regency, Central Java 52261"
+57,Bakso & soto bang udin,Bakso telor,3,Enak,"23R2+PJ6, Jalan Raya Jati Barang, Janegara, Jatibarang, Brebes Regency, Central Java 52261"
+58,Bakso & soto bang udin,Bakso ayam,1,Tidak enak,"23R2+PJ6, Jalan Raya Jati Barang, Janegara, Jatibarang, Brebes Regency, Central Java 52261"
+59,"Pondok bakso ""mba arum""",Bakso urat,4,Enak banget,"Jl. Pramuka No.96, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+60,"Pondok bakso ""mba arum""",Bakso telor,3,Enak,"Jl. Pramuka No.96, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+61,"Pondok bakso ""mba arum""",Bakso krikil,3,Enak,"Jl. Pramuka No.96, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+62,Tahu Bakso mba Mita,Bakso selimut telor,4,Enak banget," Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+63,Tahu Bakso mba Mita,Bakso iga,4,Enak banget," Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+64,Tahu Bakso mba Mita,Bakso telor,2,Bias," Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+65,Kedai Rumah Mie ayam kering & Bakso Mas Abil,Mie ayam bakso ceker,4,Enak banget,"Jl. Desa Bojong, Bojong, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+66,Kedai Rumah Mie ayam kering & Bakso Mas Abil,Bakso ceker,2,Biasa,"Jl. Desa Bojong, Bojong, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+67,Kedai Rumah Mie ayam kering & Bakso Mas Abil,Bakso urat,2,Biasa,"Jl. Desa Bojong, Bojong, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+68,Mie ayam & Bakso Anugrah,Bakso daging,3,Enak,"Jl. Pramuka No.14, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+69,Mie ayam & Bakso Anugrah,Bakso telor,3,Enak,"Jl. Pramuka No.14, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+70,Mie ayam & Bakso Anugrah,Mie ayam ceker,4,Enak banget,"Jl. Pramuka No.14, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+71,Bakso Ah mantap,Bakso krikil,4,Enak banget,"23J3+2WQ, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+72,Bakso Ah mantap,Bakso mercon,4,Enak banget,"23J3+2WQ, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+73,Bakso Ah mantap,Bakso telor,3,Enak,"23J3+2WQ, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+74,Bakso Abud,Bakso urat,4,Enak banget," 33GC+R7G, Tembongkramat, Kramat, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+75,Bakso Abud,Bakso sumsum sapi,4,Enak banget," 33GC+R7G, Tembongkramat, Kramat, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+76,Bakso Abud,Bakso rudal,4,Enak banget," 33GC+R7G, Tembongkramat, Kramat, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+77,Bakso Putri Solo,Bakso urat,3,Enak,"23J5+67P, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+78,Bakso Putri Solo,Bakso telor,3,Enak,"23J5+67P, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+79,Bakso Putri Solo,Bakso mercon,4,Enak banget,"23J5+67P, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+80,Pondok bakso bang yanto,Bakso iga sapi,4,Enak banget,"Jl. Abimanyu No.Desa, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+81,Pondok bakso bang yanto,Bakso tulangan sapi,4,Enak banget,"Jl. Abimanyu No.Desa, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+82,Pondok bakso bang yanto,Bakso lidah,2,Biasa,"Jl. Abimanyu No.Desa, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+83,Bakso siyem,Bakso jeroan sapi,3,Enak,"Kedungtukang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+84,Bakso siyem,Bakso telor,4,Enak banget,"Kedungtukang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+85,Bakso siyem,Bakso urat,4,Enak banget,"Kedungtukang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+86,Bakso mas Toni,Bakso urat,3,Enak," 23P3+GX3, RT.01/RW.05, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+87,Bakso mas Toni,Bakso telor,3,Enak," 23P3+GX3, RT.01/RW.05, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+88,Bakso mas Toni,Bakso beranak mercon,4,Enak banget," 23P3+GX3, RT.01/RW.05, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+89,Bakso mas Toni,Bakso tetelan,3,Enak," 23P3+GX3, RT.01/RW.05, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+90,Bakso Campur Sari,Bakso mercon,3,Enak,"22PW+HGV, Unnamed Road, Klampis Timur, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+91,Bakso Campur Sari,Bakso rudal,3,Enak,"22PW+HGV, Unnamed Road, Klampis Timur, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+92,Bakso Campur Sari,Mie bakso,2,Biasa,"22PW+HGV, Unnamed Road, Klampis Timur, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+93,Bakso Campur Sari,Bakso kikil sapi,4,Enak banget,"22PW+HGV, Unnamed Road, Klampis Timur, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+94,Pondok Soto & Bakso Balungan,Bakso seafod,3,Enak," Jl. Ketanggungan - Slawi No.Desa, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+95,Pondok Soto & Bakso Balungan,Bakso rudal,3,Enak," Jl. Ketanggungan - Slawi No.Desa, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+96,Pondok Soto & Bakso Balungan,Bakso telor,3,Enak," Jl. Ketanggungan - Slawi No.Desa, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+97,Pondok Bakso Irma Sari,Bakso tetelan,3,Enak,Desa Pedeslohor (Jln Raya Pedeslohor Jatibarang - Brebes) BrebesJawa Tengah 52261
+98,Pondok Bakso Irma Sari,Bakso urat,2,Biasa,Desa Pedeslohor (Jln Raya Pedeslohor Jatibarang - Brebes) BrebesJawa Tengah 52261
+99,Pondok Bakso Irma Sari,Bakso sumsum sapi,3,Enak,Desa Pedeslohor (Jln Raya Pedeslohor Jatibarang - Brebes) BrebesJawa Tengah 52261
+100,Pondok Bakso Irma Sari,Bakso biasa,2,Enak,Desa Pedeslohor (Jln Raya Pedeslohor Jatibarang - Brebes) BrebesJawa Tengah 52261
+101,Nasi goreng mas ipung,Nasi goreng biasa,2,Bias," 324V+MM9, Unnamed Road, Sawah, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+102,Nasi goreng mas ipung,Nas goreng ikan asin,2,Biasa," 324V+MM9, Unnamed Road, Sawah, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+103,Nasi goreng mas ipung,Nasi goreng ayam,3,Enak," 324V+MM9, Unnamed Road, Sawah, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+104,Nasi goreng Saranghae,Nasi goreng cumi-cumi,4,Enak banget,"Jl. Raya Tim. No.159 B, Penumbukan, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+105,Nasi goreng Saranghae,Nasi goreng sosis,3,Enak,"Jl. Raya Tim. No.159 B, Penumbukan, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+106,Nasi goreng Saranghae,Nasi goreng ayam,4,Enak banget,"Jl. Raya Tim. No.159 B, Penumbukan, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+107,Nasi goreng bang roni,Nasi goreng ati ampela,4,Enak banget,"23J6+VMR, Jl. Raya Tim., Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+108,Nasi goreng bang roni,Nasi goreng spesial,4,Enak banget,"23J6+VMR, Jl. Raya Tim., Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+109,Nasi goreng bang roni,Nasi goreng ayam,3,Enak,"23J6+VMR, Jl. Raya Tim., Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+110,Nasi goreng bang roni,Nasi goreng campur,4,Enak banget,"23J6+VMR, Jl. Raya Tim., Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+111,Nasi goreng bang kumis,Nasi goreng bakso,2,Biasa,"Jl. Gajah Mada pasar No.81, Bogor, Limbangan Wetan, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 52215"
+112,Nasi goreng bang kumis,Nasi goreng jamur,3,Enak,"Jl. Gajah Mada pasar No.81, Bogor, Limbangan Wetan, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 52215"
+113,Nasi goreng bang kumis,Nasi goreng pete,4,Enak banget,"Jl. Gajah Mada pasar No.81, Bogor, Limbangan Wetan, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 52215"
+114,Nasi goreng bang doel,Nasi goreng ayam,3,Enak,"Jl. Ketanggungan - Slawi, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+115,Nasi goreng bang doel,Nasi goreng cumi-cumi,2,Biasa,"Jl. Ketanggungan - Slawi, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+116,Nasi goreng bang doel,Nasi goreng spesial,3,Enak,"Jl. Ketanggungan - Slawi, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+117,Nasi goreng 99,Nasi goreng bakso,4,Enak banget,"Jl. Abimanyu No.30, Talang Bata, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+118,Nasi goreng 99,Nasi goreng biasa,4,Enak banget,"Jl. Abimanyu No.30, Talang Bata, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+119,Nasi goreng 99,Nasi goreng udang,3,Enak,"Jl. Abimanyu No.30, Talang Bata, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+120,Nasi goreng abah rifai jatibarang,Nasi goreng mawut,1,Tidak enak,"Jl. Raya Tim. No.139, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+121,Nasi goreng abah rifai jatibarang,Nasi goreng pete,2,Biasa,"Jl. Raya Tim. No.139, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+122,Nasi goreng abah rifai jatibarang,Nasi goreng sosis,3,Enak,"Jl. Raya Tim. No.139, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+123,Nasi goreng Al Barokah,Nasi goreng ayam,3,Enak,"23M3+G9H, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+124,Nasi goreng Al Barokah,Nasi goreng biasa,1,Tidak enak,"23M3+G9H, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+125,Nasi goreng Al Barokah,Nasi goreng campur,2,Biasa,"23M3+G9H, Jatibarang, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+126,Nasi goreng kurnia,Nasi goreng ayam,3,Enak,"Jl. Raya Pedeslohor Jatibarang, Tegalwulung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+127,Nasi goreng Kurnia,Nasi goreng sosis,4,Enak banget,"Jl. Raya Pedeslohor Jatibarang, Tegalwulung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+128,Nasi goreng kurnia,Nasi goreng mawut,2,Biasa,"Jl. Raya Pedeslohor Jatibarang, Tegalwulung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+129,Nasi goreng bang kos,Nasi goreng campur,3,Enak,"32MQ+RJ5, Jl. Raya Jatibarang - Brebes, Waru, Pemaron, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 52219"
+130,Nasi goreng bang kos,Nasi goreng ayam,3,Enak,"32MQ+RJ5, Jl. Raya Jatibarang - Brebes, Waru, Pemaron, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 52219"
+131,Nasi goreng bang kos,Nasi goreng pete,4,Enak banget,"32MQ+RJ5, Jl. Raya Jatibarang - Brebes, Waru, Pemaron, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 52219"
+132,Nasi goreng 57 mas id,Nasi goreng spesial,3,Enak," Jl. Pramuka, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+133,Nasi goreng 57 mas id,Nasi goreng bebek,4,Enak banget," Jl. Pramuka, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+134,Nasi goreng 57 mas id,Nasi goreng udang,3,Enak," Jl. Pramuka, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+135,Pondok nasi goreng gila,Nasi goreng ayam,1,Tidak enak,"23J4+MHV, Jl. Pramuka, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+136,Pondok nasi goreng gila,Nasi goreng telur spesial,2,Biasa,"23J4+MHV, Jl. Pramuka, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+137,Pondok nasi goreng gila,Nasi goreng spesial,3,Enak,"23J4+MHV, Jl. Pramuka, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+138,Nasi goreng klampis,Nasi goreng ati ampela,4,Enak banget,"JL, Rengas Pendawa No.Km. 2, Klampis Timur, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+139,Nasi goreng klampis,Nasi goreng campur,2,Biasa,"JL, Rengas Pendawa No.Km. 2, Klampis Timur, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+140,Nasi goreng klampis,Nasi goreng udang,3,Enak,"JL, Rengas Pendawa No.Km. 2, Klampis Timur, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+141,Nasi goreng nur aisyah jatibarang,Nasi goreng ayam,2,Biasa,"23R2+C4C, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+142,Nasi goreng nur aisyah jatibarang,Nasi goreng mawut,4,Enak banget,"23R2+C4C, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+143,Nasi goreng nur aisyah jatibarang,Nasi goreng campur,3,Enak,"23R2+C4C, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+144,Nasi goreng zulfa,Nasi goreng sosis,2,Biasa,"23M3+FRG, Jl. Raya Barat Jatibarang, Turi, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+145,Nasi goreng zulfa,Nasi goreng pete,4,Enak banget,"23M3+FRG, Jl. Raya Barat Jatibarang, Turi, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+146,Nasi goreng zulfa,Nasi goreng telur spesial,4,Enak banget,"23M3+FRG, Jl. Raya Barat Jatibarang, Turi, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+147,Nasi goreng bang glowor,Nasi goreng spesial,3,Enak ,"Jl. Ketanggungan - Slawi No.104, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+148,Nasi goreng bang glowor,Nasi goreng campur,3,Enak,"Jl. Ketanggungan - Slawi No.104, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+149,Nasi goreng bang glowor,Nasi goreng mawut,2,Biasa,"Jl. Ketanggungan - Slawi No.104, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+150,"Nasigoreng Bontote Mboke, Jatibarang",Nasi goreng udang,2,Bias,"Jl. Jatibarang Raya, Jatibarang, Brebes"
+151,"Nasigoreng Bontote Mboke, Jatibarang",Nasi goreng cumi-cumi,3,Enak,"Jl. Jatibarang Raya, Jatibarang, Brebes"
+152,"Nasigoreng Bontote Mboke, Jatibarang",Nasi goreng babat,2,Biasa,"Jl. Jatibarang Raya, Jatibarang, Brebes"
+153,Nasi goreng hartoyo,Nasi goreng ayam,2,Biasa,"Jl. Merpati No.44, Rengasbandung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+154,Nasi goreng hartoyo,Nasi goreng sosis,1,Tidak enak,"Jl. Merpati No.44, Rengasbandung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+155,Nasi goreng hartoyo,Nasi goreng mawut,2,Biasa,"Jl. Merpati No.44, Rengasbandung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+156,Nasi goreng mas pur,Nasi goreng jumbo,3,Enak,"Depan balai, Jl. Margasari - Jatibarang No.4277, RW.3, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+157,Nasi goreng mas pur,Nasi goreng campur,4,Enak banget,"Depan balai, Jl. Margasari - Jatibarang No.4277, RW.3, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+158,Nasi goreng mas  pur,Nasi goreng bakso,2,Biasa,"Depan balai, Jl. Margasari - Jatibarang No.4277, RW.3, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+159,Nasi Goreng Bang Kardi,Nasi goreng ayam,2,Biasa,"22XW+XRJ, Jalan Raya Jati Barang, Kendawa, Jatibarang, Brebes Regency, Central Java 52261"
+160,Nasi Goreng Bang Kardi,Nasi goreng bebek,3,Enak,"22XW+XRJ, Jalan Raya Jati Barang, Kendawa, Jatibarang, Brebes Regency, Central Java 52261"
+161,Nasi Goreng Bang Kardi,Nasi goreng spesial,3,Enak,"22XW+XRJ, Jalan Raya Jati Barang, Kendawa, Jatibarang, Brebes Regency, Central Java 52261"
+162,Nasi goreng Rizki,Nasi goreng udang,3,Enak,"Jl. Ketanggungan - Slawi, Karanglo Dua, Karanglo, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+163,Nasi goreng Rizki,Nasi goreng pete,4,Enak banget,"Jl. Ketanggungan - Slawi, Karanglo Dua, Karanglo, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+164,Nasi goreng Rizki,Nasi goreng ati ampela,3,Enak,"Jl. Ketanggungan - Slawi, Karanglo Dua, Karanglo, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+165,Nasi goreng doa ibu,Nasi goreng padang,2,Biasa," 3VCH+4FP, Jalan raya No.8, RT.04/RW.002, Jagapura, Kec. Kersana, Kabupaten Brebes, Jawa Tengah 52264"
+166,Nasi goreng doa ibu,Nasi goreng telur asin,3,Enak," 3VCH+4FP, Jalan raya No.8, RT.04/RW.002, Jagapura, Kec. Kersana, Kabupaten Brebes, Jawa Tengah 52264"
+167,Nasi goreng doa ibu,Nasi goreng seeafod,2,Biasa," 3VCH+4FP, Jalan raya No.8, RT.04/RW.002, Jagapura, Kec. Kersana, Kabupaten Brebes, Jawa Tengah 52264"
+168,Nasi goreng bogares,Nasi goreng spesial,1,Tidak enak,"Jl. Masjid Al Mujahidin Jalan, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+169,Nasi goreng bogares,Nasi goreng biasa,3,Enak,"Jl. Masjid Al Mujahidin Jalan, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+170,Nasi goreng bogares,Nasi goreng sambel ijo,4,Enak banget,"Jl. Masjid Al Mujahidin Jalan, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+171,Nasi goreng hj sidik,Nasi goreng sambel matah,4,Enak banget," Jl. Masjid Al Mujahidin No. 15, RT.03/RW.02, Kel, Penumbukan, Jatibarang Kidul, Jatibarang, Brebes Regency"
+172,Nasi goreng hj sidik,Nasi goreng spesial,2,Biasa," Jl. Masjid Al Mujahidin No. 15, RT.03/RW.02, Kel, Penumbukan, Jatibarang Kidul, Jatibarang, Brebes Regency"
+173,Nasi goreng hj sidik,Nasi goreng sambel ijo,3,Enak," Jl. Masjid Al Mujahidin No. 15, RT.03/RW.02, Kel, Penumbukan, Jatibarang Kidul, Jatibarang, Brebes Regency"
+174,Nasi goreng mas falah,Nasi goreng ayam,4,Enak banget,"Jl. Raya Barat Jatibarang No.4277, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+175,Nasi goreng mas falah,Nasi goreng telur asin,4,Enak banget,"Jl. Raya Barat Jatibarang No.4277, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+176,Nasi goreng mas falah,Nasi goreng mawut,1,Tidak enak,"Jl. Raya Barat Jatibarang No.4277, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+177,Nasi goreng caknur,Nasi goreng ayam,3,Enak,"Jl. Pramuka No.09, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+178,Nasi goreng caknur,Nasi goreng biasa,1,Tidak enak,"Jl. Pramuka No.09, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+179,Nasi goreng caknur,Nasi goreng ati ampela,2,Biasa,"Jl. Pramuka No.09, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+180,Nasi goreng dapur berkah lumintu,Nasi goreng ayam,3,Enak,"Jl. KH. Munadi No.1, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+181,Nasi goreng dapur berkah lumintu,Nasi goreng sambel ijo,4,Enak banget,"Jl. KH. Munadi No.1, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+182,Nasi goreng dapur berkah lumintu,Nasi goreng mawut,4,Enak banget,"Jl. KH. Munadi No.1, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+183,Nasi goreng sinar harapan,Nasi goreng babat,3,Enak,"33HH+797, Jl. Lengkong -Adiwerna, Kalipucang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+184,Nasi goreng sinar harapan,Nasi goreng sosis,2,Biasa,"33HH+797, Jl. Lengkong -Adiwerna, Kalipucang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+185,Nasi goreng sinar harapan,Nasi goreng telur asin,4,Enak banget,"33HH+797, Jl. Lengkong -Adiwerna, Kalipucang, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+186,Nasi goreng spesial dua saudara,Nasi goreng biasa,2,Biasa,"23Q3+F9X, Jalan Raya Jatibarang - Brebes, Janegara, Jatibarang, Brebes Regency, Central Java 52261"
+187,Nasi goreng spesial dua saudara,Nasi goreng pete,3,Enak ,"23Q3+F9X, Jalan Raya Jatibarang - Brebes, Janegara, Jatibarang, Brebes Regency, Central Java 52261"
+188,Nasi goreng spesial dua saudara,Nasi goreng babat,4,Enak banget,"23Q3+F9X, Jalan Raya Jatibarang - Brebes, Janegara, Jatibarang, Brebes Regency, Central Java 52261"
+189,Nasi goreng kang asep,Nasi goreng ati ampela,2,Biasa,"3V5J+Q6W, Karangmalang Satu, Karangmalang, Kec. Jatibrang, Kabupaten Brebes, Jawa Tengah 52263"
+190,Nasi goreng kang asep,Nasi goreng udang,4,Enak banget,"3V5J+Q6W, Karangmalang Satu, Karangmalang, Kec. Jatibrang, Kabupaten Brebes, Jawa Tengah 52263"
+191,Nasi goreng kang asep,Nasi goreng biasa,2,Biasa,"3V5J+Q6W, Karangmalang Satu, Karangmalang, Kec. Jatibrang, Kabupaten Brebes, Jawa Tengah 52265"
+192,Nasi goreng abah idin,Nasi goreng sosis,3,Enak,"Jl. Masjid Al Mujahidin No. 15, RT.03/RW.02, Kel, Penumbukan, Jatibarang Kidul, Jatibarang, Brebes Regency, Central Java 52261"
+193,Nasi goreng abah idin,Nas goreng bakso,4,Enak banget,"Jl. Masjid Al Mujahidin No. 15, RT.03/RW.02, Kel, Penumbukan, Jatibarang Kidul, Jatibarang, Brebes Regency, Central Java 52261"
+194,Nasi goreng abah idin,Nasi goreng ati ampela,4,Enak banget,"Jl. Masjid Al Mujahidin No. 15, RT.03/RW.02, Kel, Penumbukan, Jatibarang Kidul, Jatibarang, Brebes Regency, Central Java 52261"
+195,Warung nasi ponggol Mba Dewi jatibarang,Nasi goreng ikan asin,3,Enak,"Jl. Masjid Al Mujahidin Jalan, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+196,Warung nasi ponggol Mba Dewi jatibarang,Nasi goreng mawut,2,Biasa,"Jl. Masjid Al Mujahidin Jalan, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+197,Warung nasi ponggol Mba Dewi jatibarang,Nasi goreng biasa,3,Enak,"Jl. Masjid Al Mujahidin Jalan, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+198,Pecel lele 99,Pecel  ikan lele goreng,3,Enak,"32JQ+JFJ, Jl. Raya Jatibarang - Brebes, Waru, Pemaron, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52219"
+199,Pecel lele 99,Pecel ayam goreng,2,Biasa,"32JQ+JFJ, Jl. Raya Jatibarang - Brebes, Waru, Pemaron, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52220"
+200,Pecel lele 99,Pecel dara goreng,4,Enak banget,"32JQ+JFJ, Jl. Raya Jatibarang - Brebes, Waru, Pemaron, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52221"
+201,Pecel lele murah,Pecel burung puyuh goreng,4,Enak banget,"23F7+F3F, Jl. Raden Patah, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+202,Pecel lele murah,Pecel  ikan lele goreng,3,Enak,"23F7+F3F, Jl. Raden Patah, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+203,Pecel lele murah,Pecel ayam kampung goreng,2,Biasa,"23F7+F3F, Jl. Raden Patah, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+204,Pecel lele & sea food,Pecel bebek goreng,3,Enak," Jl. Margasari - Jatibarang No.11, RT.01/RW.01, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+205,Pecel lele & sea food,Pecel ayam goreng,4,Enak banget," Jl. Margasari - Jatibarang No.11, RT.01/RW.01, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+206,Pecel lele & sea food,pecak tempe & tahu,4,Enak banget," Jl. Margasari - Jatibarang No.11, RT.01/RW.01, Kemiriamba, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+207,warung pecel lele,pecel ikan lele goreng,3,Enak,
+208,warung pecel lele,Pecel  ayam goreng,4,Enak banget,
+209,warung pecel lele,Pecel dara goreng,2,Biasa,
+210,Langgeng murah ,tempe tahu pecak,1,Tidak enak,"23R2+WHJ, Jl. Raya Jatibarang, Kendawa, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+211,Langgeng murah ,pecel welut goreng,3,Enak,"23R2+WHJ, Jl. Raya Jatibarang, Kendawa, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+212,Langgeng murah ,Pecel  ikan lele goreng,4,Enak banget,"23R2+WHJ, Jl. Raya Jatibarang, Kendawa, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+213,Pecel lele yuni jaya,Pecel  ikan lele goreng,3,Enak," Jl. Raya Tim. No.1, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+214,Pecel lele yuni jaya,pecel ikan gurame goreng,2,Biasa," Jl. Raya Tim. No.1, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+215,Pecel lele yuni jaya,Pecel ayam kampung goreng,1,Tidak enak," Jl. Raya Tim. No.1, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+216,Pecel lele Rizki 99 jaya,Pecel burung dara goreng,3,Enak,"32PQ+8JJ, Jl. Raya Jatibarang - Brebes, Terlangu, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 52219"
+217,Pecel lele Rizki 99 jaya,Pecel belut goreng,4,Enak banget,"32PQ+8JJ, Jl. Raya Jatibarang - Brebes, Terlangu, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 522219"
+218,Pecel lele Rizki 99 jaya,pecel ikan lele goreng,2,Biasa,"32PQ+8JJ, Jl. Raya Jatibarang - Brebes, Terlangu, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 522219"
+219,LESEHAN PECEL LELE mbak dewi,pecel ikan lele goreng,3,Enak,"Klampis Barat, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+220,LESEHAN PECEL LELE mbak dewi,Pecel ikan bawal goreng,2,Biasa,"Klampis Barat, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+221,LESEHAN PECEL LELE mbak dewi,Pecel ayam  kampung goreng,3,Enak,"Klampis Barat, Klampis, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+222,Warung Makan SEAFOOD&PECEL LELE (putroromo33),Pecel ati ampela goreng,2,Biasa," Jl. Raya Barat Jatibarang No.67, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+223,Warung Makan SEAFOOD&PECEL LELE (putroromo33),pecel ikan lele goreng,3,Enak," Jl. Raya Barat Jatibarang No.67, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+224,Warung Makan SEAFOOD&PECEL LELE (putroromo33),Pecel ikan bawal bakar,2,Biasa," Jl. Raya Barat Jatibarang No.67, Turi, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52263"
+225,Pecel lele LANGGENG MURAH 02,Pecel ayam goreng,4,Enak banget,"22RX+5WM, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+226,Pecel lele LANGGENG MURAH 02,pecel belut goreng,4,Enak banget,"22RX+5WM, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+227,Pecel lele LANGGENG MURAH 02,Pecel bebek goreng,3,Enak,"22RX+5WM, Janegara, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah"
+228,Pecel lele cak konde,Pecel burung dara goreng,3,Enak,"338G+WV9, Pedeslohor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+229,Pecel lele cak konde,Pecel bebek goreng,2,Biasa,"338G+WV9, Pedeslohor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+230,Pecel Lele Yu Us,pecel ikan lele goreng,4,Enak banget,"338G+WV9, Pedeslohor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+231,Pecel Lele Yu Us,Pecel bebek goreng,1,Tidak enak,"332F+G8C, Tegalwulung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+232,Pecel Lele Yu Us,Pecel belut goreng,3,Enak,"332F+G8C, Tegalwulung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+233,Pecel Lele Bang Itis,Pecel ayam kampung goreng,2,Biasa,"332F+G8C, Tegalwulung, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+234,Pecel Lele Bang Itis,Pecel ikan lele goreng,4,Enak banget," Jl. Margasari - Jatibarang No.2015, Rengaspendawa, Kec. Larangan, Kabupaten Brebes, Jawa Tengah 52262"
+235,Pecel Lele Bang Itis,Pecel ati ampela goreng,1,Tidak enak," Jl. Margasari - Jatibarang No.2015, Rengaspendawa, Kec. Larangan, Kabupaten Brebes, Jawa Tengah 52262"
+236,Pecel Lele Bang Itis,Pecal belut goreng,3,Enak," Jl. Margasari - Jatibarang No.2015, Rengaspendawa, Kec. Larangan, Kabupaten Brebes, Jawa Tengah 52262"
+237,Pecel sambel wah,Ikan lele goreng crispy,2,Biasa,"22WX+W9M, Jalan Raya Jati Barang, Kendawa, Jatibarang, Brebes Regency, Central Java 52261"
+238,Pecel sambel wah,Ikan dori crispy,3,Enak,"22WX+W9M, Jalan Raya Jati Barang, Kendawa, Jatibarang, Brebes Regency, Central Java 52261"
+239,Pecel sambel wah,pecel ikan lele goreng,2,Biasa,"22WX+W9M, Jalan Raya Jati Barang, Kendawa, Jatibarang, Brebes Regency, Central Java 52261"
+240,Warung Lesehan Bu Jumain,Ati ampela goreng,4,Enak banget,"Jl. Raya Tim. No.55, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+241,Warung Lesehan Bu Jumain,Pecel ayam goreng,1,Tidak enak,"Jl. Raya Tim. No.55, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+242,Warung Lesehan Bu Jumain,terong goreng sambel pecel,3,Enak,"Jl. Raya Tim. No.55, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+243,Pecel lele cak kondel,Cah kangkung,4,Enak banget," 338G+WV9, Pedeslohor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+244,Pecel lele cak kondel,pecel ikan lele goreng,3,Enak," 338G+WV9, Pedeslohor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+245,Pecel lele cak kondel,Pecel ayam kampung goreng,3,Enak," 338G+WV9, Pedeslohor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+246,Pecel lele cak kondel,Pecel ati ampela goreng,2,Biasa," 338G+WV9, Pedeslohor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+247,waroeng bima jatibarang,Pecel belut goreng,3,Enak," 23H5+J49, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+248,waroeng bima jatibarang,Pecel ati ampela goreng,1,Tidak enak," 23H5+J49, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+249,waroeng bima jatibarang,Terong goreng sambel pecel,4,Enak banget," 23H5+J49, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+250,waroeng bima jatibarang,Tempe tahu pecak,2,Biasa," 23H5+J49, Penumbukan, Jatibarang Kidul, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261"
+251,warung makan lesehan mbah uty,pecel ikan lele goreng,3,Enak,"Jl. Raya Barat Kemiriamba, Jatibaran Kidul, Kec. Jatibarang, Kabupaten Brebres"
+252,warung makan lesehan mbah uty,Cah kangkung,2,Biasa,"Jl. Raya Barat Kemiriamba, Jatibaran Kidul, Kec. Jatibarang, Kabupaten Brebres"
+253,warung makan lesehan mbah uty,Pecel ayam goreng,3,Enak,"Jl. Raya Barat Kemiriamba, Jatibaran Kidul, Kec. Jatibarang, Kabupaten Brebres"
+254,dapur online seger,pecel ikan gurame goreng,2,Biasa,
+255,dapur online seger,Pecel ikan bawal goreng,3,Enak,
+256,dapur online seger,Pecel ikan lele goreng,1,Tidak enak,
+257,pecel mb dewi,Cah kangkung,2,Biasa,
+258,pecel mb dewi,Pecel ayam kampung goreng,3,Enak,
+259,pecel mb dewi,pecel ikan lele goreng,4,Enak banget,
+260,kedai pecel ayam/lele,Pecel lele ayam biasa,2,Biasa,
+261,kedai pecel ayam/lele,pecel ikan lele goreng,4,Enak banget,
+262,kedai pecel ayam/lele,Pecel  ikan gurame goreng,2,Biasa,
+263,pecel lele  lestari,Pecel babat goreng,3,Enak,
+264,pecel lele  lestari,Pecel ayam biasa goreng,2,Biasa,
+265,pecel lele  lestari,tahu tempe pecak,3,Enak,
+266,pecel lele mas yeo,Cah kangkung,2,Biasa,
+267,pecel lele mas yeo,Ati ampela goreng,4,Enak banget,
+268,pecel lele mas yeo,Pecel lele ayam biasa,3,Enak,
+269,pecel lele  camay,terong goreng sambel pecel,2,Biasa,
+270,pecel lele  camay,Cah kangkung,1,Tidak enak,
+271,pecel lele  camay,Pecel lele ayam biasa,2,Biasa,
+272,pecel lele mb iroh,Pecel burung dara goreng,3,Enak ,
+273,pecel lele mb iroh,Pecel ikan lele goreng,4,Enak banget,
+274,pecel lele mb iroh,terong goreng sambel pecel,1,Tidak enak,
+275,lesehan pecel lele mb wanti,Ayam penyet sambel ijo,2,Biasa,
+276,lesehan pecel lele mb wanti,pecel ikan lele goreng,3,Enak,
+277,lesehan pecel lele mb wanti,Ati ampela goreng,4,Enak banget,
+278,lesehan pecel lele mb wanti,Pecel ayam biasa goreng,2,Biasa,
+279,pecel lele mas wahyu,Cah kangkung,4,Enak banget,
+280,pecel lele mas wahyu,Tempe tahu pecak,1,Tidak enak,
+281,pecel lele mas wahyu,Pecel belut goreng,2,Biasa,
+282,Pecel lele mas broot,Pecel burung puyuh goreng,4,Enak banget,
+283,Pecel lele mas broot,Pecel ayam biasa goreng,3,Enak,
+284,Pecel lele mas broot,Pecel ikan bawal goreng,1,Tidak enak,
+285,Warung Pecel Lele Putra Tunggal,Pecak larak,2,Biasa,
+286,Warung Pecel Lele Putra Tunggal,Pecel ayam,2,Biasa,
+287,Warung Pecel Lele Putra Tunggal,pecel ikan lele goreng,3,Enak,
+288,Pecel lele dua saudara,Pecel babat goreng,4,Enak banget,
+289,Pecel lele dua saudara,Pecel ayam kampung goreng,3,Enak,
+290,Pecel lele dua saudara,pecel ikan lele goreng,4,Enak banget,
+291,Pecel lele dua saudara,Pecel ati ampela goreng,3,Enak,
+292,pecel lele ibu tuti,pecak tempe & tahu,2,Biasa,
+293,pecel lele ibu tuti,Pecel ayam sambel ijo,2,Biasa,
+294,pecel lele ibu tuti,Lele crispy sambel ijo,4,Enak banget,
+295,warung pecel mas karyo,Pecak tahu tempe,4,Enak banget,
+296,warung pecel mas karyo,Pecel bebek goreng,3,Enak,
+297,warung pecel mas karyo,Pecel ikan bawal goreng,2,Biasa,
+298,Warung Sate Ayam Kampung Bang Doel Jatibarang,Sate ayam kampung,3,Enak,
+299,Warung Sate Ayam Kampung Bang Doel Jatibarang,Sop Balungan,3,Enak,
+300,Warung Sate Ayam Kampung Bang Doel Jatibarang,Sate kulit ayam kampung,2,Biasa,
+301,"WARUNG SATE KAMBING SEGER "" BPK. KHADIRI""",Sp balungan sapi,2,Biasa,
+302,"WARUNG SATE KAMBING SEGER "" BPK. KHADIRI""",Sop kikil kambing,4, Enak banget,
+303,"WARUNG SATE KAMBING SEGER "" BPK. KHADIRI""",tongseng Kambing,3,Enak,
+304,"WARUNG SATE KAMBING SEGER "" BPK. KHADIRI""",Sate kambing muda,2,Biasa,
+305,Warung sate pak munawir khidir,Sop Kambing,1,Tidak enak,
+306,Warung sate pak munawir khidir,Sate kambing muda,3,Enak,
+307,Warung sate pak munawir khidir,Gulai Kambing,4,Enak banget,
+308,Sate Pak Dul ( Mas Slamet ) Lap. PG Jatibarang,Sop ayam kampung,2,Biasa,
+309,Sate Pak Dul ( Mas Slamet ) Lap. PG Jatibarang,Sate ayam kampung,4,Enak banget,
+310,Sate Pak Dul ( Mas Slamet ) Lap. PG Jatibarang,Sop Balungan,3,Enak,
+311,Sate Pak Dul ( Mas Slamet ) Lap. PG Jatibarang,Tongseng ayam,1,Tidak enak,
+312,Warung Sate Kambing SEGER 2,Sop balungan sapi,3,Enak,
+313,Warung Sate Kambing SEGER 2,tongseng Kambing,2,Biasa,
+314,Warung Sate Kambing SEGER 2,Gulai Kambing muda,4,Enak banget,
+315,Sate Pak Otong khidir,Sate kambing muda,3,Enak,
+316,Sate Pak Otong khidir,tongseng Kambing,2,Biasa,
+317,Sate Pak Otong khidir,Gulai Kambing,1,Tidak enak,
+318,Sate Kambing Muda H. Toha,Sate Kambing sambel kacang,4,Enak banget,
+319,Sate Kambing Muda H. Toha,Sate kuah,2,Biasa,
+320,Sate Kambing Muda H. Toha,Sate ayam lontong,3,Enak,
+321,Sate ayam pak dul,Tongseng ayam,1,Tidak enak,
+322,Sate ayam pak dul,Sate aambing lontong,3,Enak,
+323,Sate ayam pak dul,Sate ayam,2,Biasa,
+324,Sate Ayam Kampung Pak Dul,Sop daging ayam asli,4,Enak banget,
+325,Sate Ayam Kampung Pak Dul,Sate ayam kampung,2,Biasa,
+326,Sate Ayam Kampung Pak Dul,Sop balungan ayam kampung,1,Tidak enak,
+327,Sate H. Zaeni,Sate kambing full daging,3,Enak banget,
+328,Sate H. Zaeni,Gulai kambing,2,Biasa,
+329,Sate H. Zaeni,tongseng Kambing,1,Tidak enak,
+330,Warung Sate Cempe Karunia,Tongseng iga mercon,4,Enak banget,
+331,Warung Sate Cempe Karunia,Sop kambing,3,Enak,
+332,Warung Sate Cempe Karunia,Gulai kambing,2,Biasa,
+333,Warung Sate Asli Pak Dul,Sate Kambing muda,1,Tidak enak,
+334,Warung Sate Asli Pak Dul,Sop iga kambing,3,Enak,
+335,Warung Sate Asli Pak Dul,tongseng Kambing,2,Biasa,
+336,Warung Sate Asli Pak Dul,Gulai Kambing,4,Enak banget,
+337,Warung Sate Jembar,Sate ayam kampung,3,Enak,
+338,Warung Sate Jembar,Sop ayam kampung,1,Tidak enak,
+339,Warung Sate Jembar,Gulai ayam kampung,2,Biasa,
+340,Sate Ayam Pak Sagyad,Sate ayam,3,Enak,
+341,Sate Ayam Pak Sagyad,Tongseng ayam,2,Biasa,
+342,Sate Ayam Pak Sagyad,Tengkleng ayam,4,Enak banget,
+343,Warung Sate Ayam Bang Ijam 2,Sop ayam gobyos,2,Biasa,
+344,Warung Sate Ayam Bang Ijam 2,Sate jumbo,3,Enak,
+345,Warung Sate Ayam Bang Ijam 2,Tengkleng kambing,2,Biasa,
+346,Warung Sate Kambing Muda Seger,Gulai kambing,2,Biasa,
+347,Warung Sate Kambing Muda Seger,Sate kambing muda,3,Enak,
+348,Warung Sate Kambing Muda Seger,Sate kambing tanpa lemak,2,Biasa,
+349,Kupat Sate Ayam Kampung 'Nari' Khas Jatibarang,Sate ayam kupat,3,Enak,
+350,Kupat Sate Ayam Kampung 'Nari' Khas Jatibarang,Sate ayam ,2,Biasa,
+351,Kupat Sate Ayam Kampung 'Nari' Khas Jatibarang,Gulai ayam kampung,4,Enak banget,
+352,Warung Sate Kambing Sari Rasa Pak Tamar,Sate kambing muda,3,Enak,
+353,Warung Sate Kambing Sari Rasa Pak Tamar,tongseng Kambing,1,Tidak enak,
+354,Warung Sate Kambing Sari Rasa Pak Tamar, Gulai kepala kambing ,2,Biasa,
+355,Sate Kambing Sari Rasa,Sate kambing,3,Enak,
+356,Sate Kambing Sari Rasa,Sop kambing,4,Enak banget,
+357,Sate Kambing Sari Rasa,Tongseng kambing,2,Biasa,
+358,WARUNG SATE INDIA,Sate kambing,3,Enak,
+359,WARUNG SATE INDIA,Gulai kepala kambing,3,Enak,
+360,WARUNG SATE INDIA,Gulai kepala kambing,2,Biasa,
+361,Warung Kupat Sate Sinduyasa,Sate kambing,3,Enak,
+362,Warung Kupat Sate Sinduyasa,Gulai jeroan kambing,2,Biasa,
+363,Warung Kupat Sate Sinduyasa,Sate babat,4,Enak banget,
+364,Rm Sate Ayam Kampung & Lontong Sayur Mb@ Some,Sate ayam kuah kupat kuning,3,Enak,
+365,Rm Sate Ayam Kampung & Lontong Sayur Mb@ Some,Sate ayam,2,Enak,
+366,Rm Sate Ayam Kampung & Lontong Sayur Mb@ Some,Sop Ayam,1,Tidak enak,
+367,RM Raja Sate,Sate kambing,4,Enak banget,
+368,RM Raja Sate,Sop sumsum kambing,2,Biasa,
+369,RM Raja Sate,Gulai kambing,1,Tidak enak,
+370,Warung Sate Ayam Pak Doel Kios Pasar,Sate ayam + lontong,3,Enak,
+371,Warung Sate Ayam Pak Doel Kios Pasar,Sate kambing + lontong,1,Tidak enak,
+372,Warung Sate Ayam Pak Doel Kios Pasar,Gulai ayam kampung,2,Biasa,
+373,Warung Sate Ayam Pak Doel Kios Pasar,Gulai kambing,3,Enak,
+374,Kedai Sate Madura,Tengkleng kambing,4,Enak banget,
+375,Kedai Sate Madura,Sate ayam kampung,2,Biasa,
+376,Kedai Sate Madura,Sop ayam kampung,3,Enak,
+377,Warung sate kambing mang cali,Sate kambimg,1,Tidak enak,
+378,Warung sate kambing mang cali,Sop kambing,4,Enak banget,
+379,Warung sate kambing mang cali,Gulai jeroan kambing,3,Enak,
+380,Sate Ayam Kampung & Lontong Sayur Mba Ipah,Sate ayam kampung dan sayur lontong,4,Enak banget,
+381,Sate Ayam Kampung & Lontong Sayur Mba Ipah,Sate ayam kampung,3,Enak,
+382,Sate Ayam Kampung & Lontong Sayur Mba Ipah,Gulai ayam kampung,2,Biasa,
+383,Sate kambing muda Ibu Nita,Sate kambing,1,Tidak enak,
+384,Sate kambing muda Ibu Nita,Gulai jeroan kambing,3,Enak,
+385,Sate kambing muda Ibu Nita,Sate kikil kambing,2,Biasa,
+386,Sate Ayam Kampung Mba Pur,Sate ayam kampung,3,Enak,
+387,Sate Ayam Kampung Mba Pur,Tongseng ayam,1,Tidak enak,
+388,Sate Ayam Kampung Mba Pur,Gulai ayam kampung,2,Biasa,
+389,Sate kambing Bang Julian,Sate kambing muda tanpa lemak,3,Enak,
+390,Sate kambing Bang Julian,Sate kikil kambing,4,Enak banget,
+391,Sate kambing Bang Julian,Tengkleng kambing,2,Biasa,
+392,Sate ayam & blengong Bang Slenteng,Sate ayam ,3,Enak,
+393,Sate ayam & blengong Bang Slenteng,Sate blengong + lontong,2,Biasa,
+394,Sate ayam & blengong Bang Slenteng,Sate ayam + lontong,3,Enak,
+395,Warung sate Kambing Pak Glowor,Sate kambing muda,4,Enak banget,
+396,Warung sate kambing Pak Glowor,Sop kambing,3,Enak,
+397,Warung sate kambing Pak Glowor,Tengkleng kikil,2,Biasa,
+398,Warung sate kambing Pak Glowor,Gulai kambing,4,Enak banget,
+399,"Rumah Makan Padang ""Sari Bundo",Rendang daging,3,Enak,
+400,"Rumah Makan Padang ""Sari Bundo",Gulai kikil,2,Biasa,
+401,"Rumah Makan Padang ""Sari Bundo",Telor dadar,3,Enak banget,
+402,"Rumah Makan Padang ""Sari Bundo",Terong balado,2,Biasa,
+403,"Rumah Makan Padang ""Sari Bundo",Ayam bakar,3,Enak,
+404,Rumah Makan Padang Selera Kita,Rendang daging,2,Biasa,
+405,Rumah Makan Padang Selera Kita,Gulai ayam kampung,1,Tidak enak,
+406,Rumah Makan Padang Selera Kita,Sayur daun singkong,3,Enak,
+407,Rumah Makan Padang Selera Kita,Perkedel,2,Biasa,
+408,Rumah Makan Padang Selera Kita,Udang balado,3,Enak,
+409,RM. RESTU BUNDO Jatibarang,Dendeng sambel ijo,2,Biasa,
+410,RM. RESTU BUNDO Jatibarang,Gulai kikil,4,Enak banget,
+411,RM. RESTU BUNDO Jatibarang,Daging balado,2,Biasa,
+412,RM. RESTU BUNDO Jatibarang,Gulai otak,3,Enaak,
+413,RM. RESTU BUNDO Jatibarang,Ayam bakar,1,Tidak enak,
+414,"Rumah Makan Padang ""Sari Bundo""",Gulai ikan,3,Enak,
+415,"Rumah Makan Padang ""Sari Bundo""",Gulai ayam kampung,4,Enak banget,
+416,"Rumah Makan Padang ""Sari Bundo""",Rendang daging,3,Enak,
+417,"Rumah Makan Padang ""Sari Bundo""",Telur dadar rendang,2,Biasa,
+418,"Rumah Makan Padang ""Sari Bundo""",Paruh goreng,4,Enak banget,
+419,Rumah Makan Padang Selera Kita Bersama,Perkedel,3,Enak,
+420,Rumah Makan Padang Selera Kita Bersama,Gulai kikil,2,Biasa,
+421,Rumah Makan Padang Selera Kita Bersama,Gurame gulai,3,Enak,
+422,Rumah Makan Padang Selera Kita Bersama,sayur nangka,2,Biasa,
+423,Rumah Makan Padang Selera Kita Bersama,krupuk kulit sapi,1,Tidak enak,
+424,RM. Sari Jaya Masakan Padang,ikan bakar,3,Enak,
+425,RM. Sari Jaya Masakan Padang,Dendeng balado,4,Enak banget,
+426,RM. Sari Jaya Masakan Padang,Rendang daging,3,Enak,
+427,RM. Sari Jaya Masakan Padang,Gulai ayam kampung,2,Biasa,
+428,RM. Sari Jaya Masakan Padang,Ayam pop,3,Enak,
+429,Rumah Makan Putra Minang,Gulai cumi,4,Enak banget,
+430,Rumah Makan Putra Minang,Rendang daging,3,Enak,
+431,Rumah Makan Putra Minang,Perkedel,2,Biasa,
+432,Rumah Makan Putra Minang,Dendeng balado,4,Enak banget,
+433,Rumah Makan Putra Minang,Jengkol Balado,2,Biasa,
+434,Rumah makan padang Cinto,Telur balado,1,Tidak enak,
+435,Rumah makan padang Cinto,Telur barendo,2,Biasa,
+436,Rumah makan padang Cinto,Udang balado,3,Enak banget,
+437,Rumah makan padang Cinto,Gulai telur,1,Tidak enak,
+438,Rumah makan padang Cinto,Rendang daging,3,Enak,
+439,Rumah makan padang cinta rasa,Jengkol Balado,4,Enak banget,
+440,Rumah makan padang cinta rasa,Rendang daging,2,Biasa,
+441,Rumah makan padang cinta rasa,Gulai cumi,2,Biasa,
+442,Rumah makan padang cinta rasa,Ayam bakar,1,Tidak enak,
+443,Rumah makan padang cinta rasa,Gulai kikil,3,Enak,
+444,Rumah makan pada Berkah rasa,Ayam bakar,2,Biasa,
+445,Rumah makan pada Berkah rasa,krupuk kulit sapi,2,Biasa,
+446,Rumah makan pada Berkah rasa,Gulai daun singkong,4,Enak banget,
+447,Rumah makan pada Berkah rasa,Jengkol Balado,3,Enak,
+448,Rumah makan pada Berkah rasa,Rendang daging,2,Biasa,
+449,Rumah makan padang panjang cinto,Telur balado pedas,1,Tidak enak,
+450,Rumah makan padang panjang cinto,Balado cumi asin,3,Enak,
+451,Rumah makan padang panjang cinto,Rendang daging,2,Biasa,
+452,Rumah makan padang panjang cinto,krupuk kulit sapi,2,Biasa,
+453,Rumah makan padang panjang cinto,Ayam bakar,3,Enak,
+454,Rumah makan padang cita rasa,Ayam gulai,2,Biasa,
+455,Rumah makan padang cita rasa,Gulai cumi,1,Tidak enak,
+456,Rumah makan padang cita rasa,Rendang daging,3,Enak,
+457,Rumah makan padang cita rasa,Telur balado,2,Biasa,
+458,Rumah makan padang cita rasa,Dendeng balado,4,Enak banget,
+459,Rumah makan padang  minang lezat,Jengkol Balado,2,Biasa,
+460,Rumah makan padang  minang lezat,Rendang daging,3,Enak,
+461,Rumah makan padang  minang lezat,krupuk kulit sapi,4,Enak banget,
+462,Rumah makan padang  minang lezat,Gulai kikil,1,Tidak enak,
+463,Rumah makan padang sederhana,Perkedel,2,Biasa,
+464,Rumah makan padang sederhana,sayur nangka,3,Enak,
+465,Rumah makan padang sederhana,Daun singkong,4,Enak banget,
+466,Rumah makan padang sederhana,Rendang daging,2,Biasa,
+467,Rumah makan padang sederhana,Ayam bakar,2,Biasa,
+468,Rumah makan padang minang maning,Gulai kikil,3,Enak,
+469,Rumah makan padang minang maning,Ayam bakar,4,Enak banget,
+470,Rumah makan padang minang maning,Gulai cumi,3,Enak,
+471,Rumah makan padang minang maning,Gulai ikan,4,Enak banget,
+472,Rumah makan padang minang maning,Udang balado,3,Enak,
+473,Warung padang makmur,Jengkol Balado,2,Biasa,
+474,Warung padang makmur,Udang balado,3,Enak,
+475,Warung padang makmur,Ayam bakar,4,Enak banget,
+476,Warung padang makmur,Ayam goreng srundeng,2,Enak,
+477,Warung padang makmur,Gulai kikil,3,Biasa,
+478,Padang sederhana asli,Perkedel,1,Tidak enak,
+479,Padang sederhana asli,Rendang daging,2,Biasa,
+480,Padang sederhana asli,Ayam gpreng srundeng,3,Enak,
+481,Padang sederhana asli,Gulai kikil,2,Biasa,
+482,Padang sederhana asli,Jengkol Balado,2,Biasa,
+483,Rumah makan padang simpang raya,Rendang daging,3,Enak,
+484,Rumah makan padang simpang raya,Dendeng sambel ijo,4,Enak banget,
+485,Rumah makan padang simpang raya,Telur Balado,2,Biasa,
+486,Rumah makan padang simpang raya,Perkedel,4,Enak banget,
+487,RM Padang berkah rasa,Udang balado,2,Biasa,
+488,RM Padang berkah rasa,Rendang daging,3,Enak,
+489,RM Padang berkah rasa,Ayam goreng,1,Tidak enak,
+490,RM Padang berkah rasa,Telur dadar rendang,3,Enak,
+491,RM Padang berkah rasa,Jengkol Balado,2,Biasa,
+492,Kupat Glabed ibu niti,Sate kerang,4,Enak banget,
+493,Kupat Glabed ibu niti,Kupat blengong,2,Biasa,
+494,Kupat Glabed ibu niti,Gorengan tahu tempe,2,Biasa,
+495,Kupat Glabed ibu niti,Sate blengong bakar,3,Enak,
+496,Kupat Glabed ibu niti,Sate blengong masak,4,Enak banget,
+497,Kupat Glabed ibu kanah,Sate amepela blengong masak,2,Biasa,
+498,Kupat Glabed ibu kanah,Sate blengong bakar,2,Biasa,
+499,Kupat Glabed ibu kanah,Kupat glabed + sate blengong,3,Enak,
+500,Kupat Glabed ibu kanah,Sate kerang ,3,Enak,
+501,Kupat Glabed ibu kanah,Gorengan tahu tempe,4,Enak banget,
+502,Kupat glabed ibu tuti,Sate blengong masak,4,Enak banget,
+503,Kupat glabed ibu tuti,Sate bleengong bakar,3,Enak,
+504,Kupat glabed ibu tuti,Kupat glabed + sate blengong bakar,4,Enak banget,
+505,Kupat glabed ibu tuti,Sate kerang ,4,Enak banget,
+506,Kupat glabed ibu tuti,Sate usus blengong masak,2,Biasa,
+507,Kupat glabed ibu soimah,Kupat glabed + sate blengong masak,2,Biasa,
+508,Kupat glabed ibu soimah,Kupat glabed + sate blengong bakar,1,Tidak enak,
+509,Kupat glabed ibu soimah,Mendoan tempe,3,Enak,
+510,Kupat glabed ibu soimah,Sate kerang,3,Enak,
+511,Kupat glabed ibu soimah,Sate telur puyuh,1,Tidak enak,
+512,WARUNG KUPAT BU DIROL,Sate blengong masak,1,Tidak enak,
+513,WARUNG KUPAT BU DIROL,Sate blengong bakar,2,Biasa,
+514,WARUNG KUPAT BU DIROL,Kupat glabed,4,Enak banget,
+515,WARUNG KUPAT BU DIROL,Sate kerang,3,Enak,
+516,WARUNG KUPAT BU DIROL,Mendoan tempe,3,Enak,
+517,Kupat Glabed Sate Blengong Mas Rizki,Sate telur puyuh,3,Enak,
+518,Kupat Glabed Sate Blengong Mas Rizki,Sate usus blengong masak,2,Biasa,
+519,Kupat Glabed Sate Blengong Mas Rizki,Kupat glabed,3,Enak,
+520,Kupat Glabed Sate Blengong Mas Rizki,Gorengan tahu ,2,Biasa,
+521,Kupat Glabed Sate Blengong Mas Rizk,Sate kerang,3,Enak,
+522,Kupat Glabed Bapak Yudi,Kupat glabed,2,Biasa,
+523,Kupat Glabed Bapak Yudi,kupat glabed + sate kerang,2,Biasa,
+524,Kupat Glabed Bapak Yudi,Kupat glabed + sate blengong masak,3,Enak,
+525,Kupat Glabed Bapak Yudi,Kupat glabed + sate blengong bakar,1,Tidak enak,
+526,Kupat Glabed Bapak Yudi,Mendoan tempe,3,Enak,
+527,Kupat Glabed yu sop,Sate blengong masak,2,Biasa,
+528,Kupat Glabed yu sop,Gorengan tahu,2,Biasa,
+529,Kupat Glabed yu sop,Mendoan tempe,3,Enak,
+530,Kupat Glabed yu sop,Sate kerang,4,Enak banget,
+531,Kupat Glabed yu sop,Kupat glabed,2,Biasa,
+532,Warung Kupat Glabed bu Inka,Sate kerang,1,Tidak enak,
+533,Warung Kupat Glabed bu Inka,Kupat glabed + sate kerang,4,Enak banget,
+534,Warung Kupat Glabed bu Inka,Kupat glabed + sate usus blengong masak,3,Enak,
+535,Warung Kupat Glabed bu Inka,Kupat glabed + sate blengong bakar,2,Biasa,
+536,Warung Kupat Glabed bu Inka,Tahu aci,4,Enak banget,
+537,Kupat Glabed bu Ikoh,Kupat glabed,3,Enak,
+538,Kupat Glabed bu Ikoh,Sate kerang,1,Tidak enak,
+539,Kupat Glabed bu Ikoh,Sate blengong masak,2,Biasa,
+540,Kupat Glabed bu Ikoh,Sate blengong bakar,3,Enak,
+541,Kupat Glabed bu Ikoh,Sate teyuh puyuh,4,Enak banget,
+542,Kupat Glabed pak lebe,Sate kerang,3,Enak,
+543,Kupat Glabed pak lebe,Sate blengong masak,2,Biasa,
+544,Kupat Glabed pak lebe,Sate blengong bakar,1,Tidak enak,
+545,Kupat Glabed pak lebe,Mendoan tempe,4,Enak,
+546,Kupat Glabed pak lebe,Kupat glabed,2,Biasa,
+547,Kupat Glabed pak Klowor,Gorengan tahu bakwan,3,Enak,
+548,Kupat Glabed pak Klowor,Sate kerang,1,Tidak enak,
+549,Kupat Glabed pak Klowor,Kupat labed + sate blengong bakar,4,Enak banget,
+550,Kupat Glabed pak Klowor,Kupat glabed + sate blengong masak,3,Enak,
+551,Kupat Glabed pak Klowor,Sate usus blengong masak,2,Biasa,
+552,Warung Kupat Glabed bu nanik,Kupat glabet + sate blengong masak,1,Tidak enak,
+553,Warung Kupat Glabed bu nanik,Sate kerang,4,Enak banget,
+554,Warung Kupat Glabed bu nanik,Sate ampela blengong masak,3,Enak,
+555,Warung Kupat Glabed bu nanik,Sate ampela blengong bakar,2,Biasa,
+556,Warung Kupat Glabed bu nanik,Mendoan tempe,1,Tidak enak,
+557,Warung Kupat Glabed ibu fauziyah,Kupat glabed,3,Enak,
+558,Warung Kupat Glabed ibu fauziyah,Sate usus blengong masak,2,Biasa,
+559,Warung Kupat Glabed ibu fauziyah,Sate kerang,3,Enak,
+560,Warung Kupat Glabed ibu fauziyah,Kupat glabed,3,Enak,
+561,Warung Kupat Glabed ibu fauziyah,Kupat glabed + sate blengong bakar,2,Biasa,
+562,Warung Kupat Glabed bang rizki,Kupat glabed + sate blengong masak,4,Enak banget,
+563,Warung Kupat Glabed bang rizki,Blengong goreng,4,Enak banget,
+564,Warung Kupat Glabed bang rizki,Kupat glabed,3,Enak,
+565,Warung Kupat Glabed bang rizki,Sate kerang,2,Biasa,
+566,Warung Kupat Glabed bang rizki,Goengan,4,Enak banget,
+567,Warung kupat mak isah,Kupat glabet + sate blengong masak,3,Enak,
+568,Warung kupat mak isah,Mendoan,2,Biasa,
+569,Warung kupat mak isah,Sate telur puyuh,4,Enak banget,
+570,Warung kupat mak isah,Sate kerang,3,Enak ,
+571,Warung kupat mak isah,Sate usus blengong masak,2,Biasa,
+572,Kupat blengong ibu nurul,Sate blengong masak,4,Enak banget,
+573,Kupat blengong ibu nurul,Sate blengong bakar,3,Enak,
+574,Kupat blengong ibu nurul,Kupat glabed,1,Tidak enak,
+575,Kupat blengong ibu nurul,Sate kerang,3,Enak,
+576,Kupat blengong ibu nurul,Sate usus blengong masak,2,Biasa,
+577,Kupat blengong bu madyo,Kupat glabet + sate blengong masak,3,Enak,
+578,Kupat blengong bu madyo,Sate kerang,4,Enak banget,
+579,Kupat blengong bu madyo,Gorengan tahu,3,Enak,
+580,Kupat blengong bu madyo,Sate tekur puyuh,2,Biasa,
+581,Kupat blengong bu madyo,Sate blengong masak,1,Tidak enak,
+582,Warung kupat blengong pak marki,Sate usus blengong bakar,3,Enak,
+583,Warung kupat blengong pak marki,Sate blengong bakar,3,Enak,
+584,Warung kupat blengong pak marki,Sate blengong bakar,2,Biasa,
+585,Warung kupat blengong pak marki,Sate telur puyuh,3,Enak,
+586,Warung kupat blengong pak marki,Sate kerang,2,Biasa,
+587,Warung kupat blengong pak marki,Kupat + sate blengong,3,Enak,
+588,Kupat blengong yu sainah,Sate kerang,2,Biasa,
+589,Kupat blengong yu sainah,Gorengan bakwan dan tahu,4,Enak banget,
+590,Kupat blengong yu sainah,Sate telur puyuh,3,Enak,
+591,Kupat blengong yu sainah,Sate kerang,1,Tidak enak,
+592,Kupat blengong yu sainah,Sate blengong bakar,4,Enak banget,
+593,Kupat blengong yu sainah,Sate blengong masak,2,Biasa,

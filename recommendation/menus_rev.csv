@@ -1,0 +1,590 @@
+menuId,menu,umkmId
+1,Bakso iga,1
+2,Bakso tahu,1
+3,Bakso beranak,1
+4,Bakso urat,2
+5,Bakso Biasa,2
+6,Bakso tahu,2
+7,Bakso urat,3
+8,Bakso telor,4
+9,Bakso mercon,4
+10,Bakso iga,5
+11,Bakso seafod,5
+12,Bakso telor,5
+13,Bakso urat,7
+14,Bakso tahu,7
+15,Bakso spesial,7
+16,Bakso babat,8
+17,Bakso dua granat,8
+18,Bakso biasa,8
+19,Bakso urat,9
+20,Bakso  telor,9
+21,Bakso campur,9
+22,Bakso kwetiau,10
+23,Bakso urat,10
+24,Bakso telor,10
+25,Bakso biasa,10
+26,Bakso tahu,11
+27,Bakso tetelan,11
+28,Bakso urat,11
+29,Bakso telor puyuh,13
+30,Bakso kecil,13
+31,Bakso beranak,13
+32,Bakso selimut telor,14
+33,Bakso urat,14
+34,Bakso telur,14
+35,Bakso sapi,15
+36,Mie bakso,15
+37,Bakso urat,15
+38,Bakso tetelan,16
+39,Bakso biasa,16
+40,Bakso telor,16
+41,Soto tauco,17
+42,Bakso telor,17
+43,Basko urat,17
+44,Bakso biasa,18
+45,Bakso beranak,18
+46,Bakso urat,18
+47,Bakso soto tauco,19
+48,Bakso telor,19
+49,Bakso petir,19
+50,Bakso sumsum sapi,20
+51,Basko telor,20
+52,Bakso urat,20
+53,Bakso mercon,21
+54,Bakso telor,21
+55,Soto tauco,21
+56,Bakso urat,22
+57,Bakso telor,22
+58,Bakso ayam,22
+59,Bakso urat,23
+60,Bakso telor,23
+61,Bakso krikil,23
+62,Bakso selimut telor,24
+63,Bakso iga,24
+64,Bakso telor,24
+65,Mie ayam bakso ceker,25
+66,Bakso ceker,25
+67,Bakso urat,25
+68,Bakso daging,26
+69,Bakso telor,26
+70,Mie ayam ceker,26
+71,Bakso krikil,27
+72,Bakso mercon,27
+73,Bakso telor,27
+74,Bakso urat,28
+75,Bakso sumsum sapi,28
+76,Bakso rudal,28
+77,Bakso urat,29
+78,Bakso telor,29
+79,Bakso mercon,29
+80,Bakso iga sapi,30
+81,Bakso tulangan sapi,30
+82,Bakso lidah,30
+83,Bakso jeroan sapi,31
+84,Bakso telor,31
+85,Bakso urat,31
+86,Bakso urat,32
+87,Bakso telor,32
+88,Bakso beranak mercon,32
+89,Bakso tetelan,32
+90,Bakso mercon,33
+91,Bakso rudal,33
+92,Mie bakso,33
+93,Bakso kikil sapi,33
+94,Bakso seafod,34
+95,Bakso rudal,34
+96,Bakso telor,34
+97,Bakso tetelan,35
+98,Bakso urat,35
+99,Bakso sumsum sapi,35
+100,Bakso biasa,35
+101,Nasi goreng biasa,36
+102,Nas goreng ikan asin,36
+103,Nasi goreng ayam,36
+104,Nasi goreng cumi-cumi,37
+105,Nasi goreng sosis,37
+106,Nasi goreng ayam,37
+107,Nasi goreng ati ampela,38
+108,Nasi goreng spesial,38
+109,Nasi goreng ayam,38
+110,Nasi goreng campur,38
+111,Nasi goreng bakso,39
+112,Nasi goreng jamur,39
+113,Nasi goreng pete,39
+114,Nasi goreng ayam,40
+115,Nasi goreng cumi-cumi,40
+116,Nasi goreng spesial,40
+117,Nasi goreng bakso,41
+118,Nasi goreng biasa,41
+119,Nasi goreng udang,41
+120,Nasi goreng mawut,42
+121,Nasi goreng pete,42
+122,Nasi goreng sosis,42
+123,Nasi goreng ayam,43
+124,Nasi goreng biasa,43
+125,Nasi goreng campur,43
+126,Nasi goreng ayam,44
+127,Nasi goreng sosis,45
+128,Nasi goreng mawut,44
+129,Nasi goreng campur,46
+130,Nasi goreng ayam,46
+131,Nasi goreng pete,46
+132,Nasi goreng spesial,47
+133,Nasi goreng bebek,47
+134,Nasi goreng udang,47
+135,Nasi goreng ayam,48
+136,Nasi goreng telur spesial,48
+137,Nasi goreng spesial,48
+138,Nasi goreng ati ampela,49
+139,Nasi goreng campur,49
+140,Nasi goreng udang,49
+141,Nasi goreng ayam,50
+142,Nasi goreng mawut,50
+143,Nasi goreng campur,50
+144,Nasi goreng sosis,51
+145,Nasi goreng pete,51
+146,Nasi goreng telur spesial,51
+147,Nasi goreng spesial,52
+148,Nasi goreng campur,52
+149,Nasi goreng mawut,52
+150,Nasi goreng udang,53
+151,Nasi goreng cumi-cumi,53
+152,Nasi goreng babat,53
+153,Nasi goreng ayam,54
+154,Nasi goreng sosis,54
+155,Nasi goreng mawut,54
+156,Nasi goreng jumbo,55
+157,Nasi goreng campur,55
+158,Nasi goreng bakso,56
+159,Nasi goreng ayam,57
+160,Nasi goreng bebek,57
+161,Nasi goreng spesial,57
+162,Nasi goreng udang,58
+163,Nasi goreng pete,58
+164,Nasi goreng ati ampela,58
+165,Nasi goreng padang,59
+166,Nasi goreng telur asin,59
+167,Nasi goreng seeafod,59
+168,Nasi goreng spesial,60
+169,Nasi goreng biasa,60
+170,Nasi goreng sambel ijo,60
+171,Nasi goreng sambel matah,61
+172,Nasi goreng spesial,61
+173,Nasi goreng sambel ijo,61
+174,Nasi goreng ayam,62
+175,Nasi goreng telur asin,62
+176,Nasi goreng mawut,62
+177,Nasi goreng ayam,63
+178,Nasi goreng biasa,63
+179,Nasi goreng ati ampela,63
+180,Nasi goreng ayam,64
+181,Nasi goreng sambel ijo,64
+182,Nasi goreng mawut,64
+183,Nasi goreng babat,65
+184,Nasi goreng sosis,65
+185,Nasi goreng telur asin,65
+186,Nasi goreng biasa,66
+187,Nasi goreng pete,66
+188,Nasi goreng babat,66
+189,Nasi goreng ati ampela,68
+190,Nasi goreng udang,68
+191,Nasi goreng biasa,68
+192,Nasi goreng sosis,69
+193,Nas goreng bakso,69
+194,Nasi goreng ati ampela,69
+195,Nasi goreng ikan asin,70
+196,Nasi goreng mawut,70
+197,Nasi goreng biasa,70
+198,Pecel  ikan lele goreng,73
+199,Pecel ayam goreng,73
+200,Pecel dara goreng,73
+201,Pecel burung puyuh goreng,74
+202,Pecel  ikan lele goreng,74
+203,Pecel ayam kampung goreng,74
+204,Pecel bebek goreng,75
+205,Pecel ayam goreng,75
+206,pecak tempe & tahu,75
+207,pecel ikan lele goreng,76
+208,Pecel  ayam goreng,76
+209,Pecel dara goreng,76
+210,tempe tahu pecak,77
+211,pecel welut goreng,77
+212,Pecel  ikan lele goreng,77
+213,Pecel  ikan lele goreng,78
+214,pecel ikan gurame goreng,78
+215,Pecel ayam kampung goreng,78
+216,Pecel burung dara goreng,80
+217,Pecel belut goreng,80
+218,pecel ikan lele goreng,80
+219,pecel ikan lele goreng,81
+220,Pecel ikan bawal goreng,81
+221,Pecel ayam  kampung goreng,81
+222,Pecel ati ampela goreng,83
+223,pecel ikan lele goreng,83
+224,Pecel ikan bawal bakar,83
+225,Pecel ayam goreng,84
+226,pecel belut goreng,84
+227,Pecel bebek goreng,84
+228,Pecel burung dara goreng,85
+229,Pecel bebek goreng,85
+230,pecel ikan lele goreng,87
+231,Pecel bebek goreng,87
+232,Pecel belut goreng,87
+233,Pecel ayam kampung goreng,89
+234,Pecel ikan lele goreng,89
+235,Pecel ati ampela goreng,89
+236,Pecal belut goreng,89
+237,Ikan lele goreng crispy,90
+238,Ikan dori crispy,90
+239,pecel ikan lele goreng,90
+240,Ati ampela goreng,91
+241,Pecel ayam goreng,91
+242,terong goreng sambel pecel,91
+243,Cah kangkung,92
+244,pecel ikan lele goreng,92
+245,Pecel ayam kampung goreng,92
+246,Pecel ati ampela goreng,92
+247,Pecel belut goreng,93
+248,Pecel ati ampela goreng,93
+249,Terong goreng sambel pecel,93
+250,Tempe tahu pecak,93
+251,pecel ikan lele goreng,94
+252,Cah kangkung,94
+253,Pecel ayam goreng,94
+254,pecel ikan gurame goreng,95
+255,Pecel ikan bawal goreng,95
+256,Pecel ikan lele goreng,95
+257,Cah kangkung,96
+258,Pecel ayam kampung goreng,96
+259,pecel ikan lele goreng,96
+260,Pecel lele ayam biasa,97
+261,pecel ikan lele goreng,97
+262,Pecel  ikan gurame goreng,97
+263,Pecel babat goreng,98
+264,Pecel ayam biasa goreng,98
+265,tahu tempe pecak,98
+266,Cah kangkung,99
+267,Ati ampela goreng,99
+268,Pecel lele ayam biasa,99
+269,terong goreng sambel pecel,100
+270,Cah kangkung,100
+271,Pecel lele ayam biasa,100
+272,Pecel burung dara goreng,101
+273,Pecel ikan lele goreng,101
+274,terong goreng sambel pecel,101
+275,Ayam penyet sambel ijo,102
+276,pecel ikan lele goreng,102
+277,Ati ampela goreng,102
+278,Pecel ayam biasa goreng,102
+279,Cah kangkung,103
+280,Tempe tahu pecak,103
+281,Pecel belut goreng,103
+282,Pecel burung puyuh goreng,104
+283,Pecel ayam biasa goreng,104
+284,Pecel ikan bawal goreng,104
+285,Pecak larak,105
+286,Pecel ayam,105
+287,pecel ikan lele goreng,105
+288,Pecel babat goreng,106
+289,Pecel ayam kampung goreng,106
+290,pecel ikan lele goreng,106
+291,Pecel ati ampela goreng,106
+292,pecak tempe & tahu,107
+293,Pecel ayam sambel ijo,107
+294,Lele crispy sambel ijo,107
+295,Pecak tahu tempe,108
+296,Pecel bebek goreng,108
+297,Pecel ikan bawal goreng,108
+298,Sate ayam kampung,109
+299,Sop Balungan,109
+300,Sate kulit ayam kampung,109
+301,Sp balungan sapi,110
+302,Sop kikil kambing,110
+303,tongseng Kambing,110
+304,Sate kambing muda,110
+305,Sop Kambing,111
+306,Sate kambing muda,111
+307,Gulai Kambing,111
+308,Sop ayam kampung,112
+309,Sate ayam kampung,112
+310,Sop Balungan,112
+311,Tongseng ayam,112
+312,Sop balungan sapi,113
+313,tongseng Kambing,113
+314,Gulai Kambing muda,113
+315,Sate kambing muda,114
+316,tongseng Kambing,114
+317,Gulai Kambing,114
+318,Sate Kambing sambel kacang,115
+319,Sate kuah,115
+320,Sate ayam lontong,115
+321,Tongseng ayam,116
+322,Sate aambing lontong,116
+323,Sate ayam,116
+324,Sop daging ayam asli,117
+325,Sate ayam kampung,117
+326,Sop balungan ayam kampung,117
+327,Sate kambing full daging,118
+328,Gulai kambing,118
+329,tongseng Kambing,118
+330,Tongseng iga mercon,119
+331,Sop kambing,119
+332,Gulai kambing,119
+333,Sate Kambing muda,120
+334,Sop iga kambing,120
+335,tongseng Kambing,120
+336,Gulai Kambing,120
+337,Sate ayam kampung,121
+338,Sop ayam kampung,121
+339,Gulai ayam kampung,121
+340,Sate ayam,122
+341,Tongseng ayam,122
+342,Tengkleng ayam,122
+343,Sop ayam gobyos,123
+344,Sate jumbo,123
+345,Tengkleng kambing,123
+346,Gulai kambing,124
+347,Sate kambing muda,124
+348,Sate kambing tanpa lemak,124
+349,Sate ayam kupat,125
+350,Sate ayam ,125
+351,Gulai ayam kampung,125
+352,Sate kambing muda,126
+353,tongseng Kambing,126
+354, Gulai kepala kambing ,126
+355,Sate kambing,127
+356,Sop kambing,127
+357,Tongseng kambing,127
+358,Sate kambing,128
+359,Gulai kepala kambing,128
+360,Sate kambing,129
+361,Gulai jeroan kambing,129
+362,Sate babat,129
+363,Sate ayam kuah kupat kuning,130
+364,Sate ayam,130
+365,Sop Ayam,130
+366,Sate kambing,131
+367,Sop sumsum kambing,131
+368,Gulai kambing,131
+369,Sate ayam + lontong,132
+370,Sate kambing + lontong,132
+371,Gulai ayam kampung,132
+372,Gulai kambing,132
+373,Tengkleng kambing,133
+374,Sate ayam kampung,133
+375,Sop ayam kampung,133
+376,Sate kambimg,134
+377,Sop kambing,134
+378,Gulai jeroan kambing,134
+379,Sate ayam kampung dan sayur lontong,135
+380,Sate ayam kampung,135
+381,Gulai ayam kampung,135
+382,Sate kambing,136
+383,Gulai jeroan kambing,136
+384,Sate kikil kambing,136
+385,Sate ayam kampung,137
+386,Tongseng ayam,137
+387,Gulai ayam kampung,137
+388,Sate kambing muda tanpa lemak,138
+389,Sate kikil kambing,138
+390,Tengkleng kambing,138
+391,Sate ayam ,139
+392,Sate blengong + lontong,139
+393,Sate ayam + lontong,139
+394,Sate kambing muda,140
+395,Sop kambing,141
+396,Tengkleng kikil,141
+397,Gulai kambing,141
+398,Rendang daging,142
+399,Gulai kikil,142
+400,Telor dadar,142
+401,Terong balado,142
+402,Ayam bakar,142
+403,Rendang daging,143
+404,Gulai ayam kampung,143
+405,Sayur daun singkong,143
+406,Perkedel,143
+407,Udang balado,143
+408,Dendeng sambel ijo,144
+409,Gulai kikil,144
+410,Daging balado,144
+411,Gulai otak,144
+412,Ayam bakar,144
+413,Gulai ikan,145
+414,Gulai ayam kampung,145
+415,Rendang daging,145
+416,Telur dadar rendang,145
+417,Paruh goreng,145
+418,Perkedel,146
+419,Gulai kikil,146
+420,Gurame gulai,146
+421,sayur nangka,146
+422,krupuk kulit sapi,146
+423,ikan bakar,147
+424,Dendeng balado,147
+425,Rendang daging,147
+426,Gulai ayam kampung,147
+427,Ayam pop,147
+428,Gulai cumi,148
+429,Rendang daging,148
+430,Perkedel,148
+431,Dendeng balado,148
+432,Jengkol Balado,148
+433,Telur balado,149
+434,Telur barendo,149
+435,Udang balado,149
+436,Gulai telur,149
+437,Rendang daging,149
+438,Jengkol Balado,150
+439,Rendang daging,150
+440,Gulai cumi,150
+441,Ayam bakar,150
+442,Gulai kikil,150
+443,Ayam bakar,151
+444,krupuk kulit sapi,151
+445,Gulai daun singkong,151
+446,Jengkol Balado,151
+447,Rendang daging,151
+448,Telur balado pedas,152
+449,Balado cumi asin,152
+450,Rendang daging,152
+451,krupuk kulit sapi,152
+452,Ayam bakar,152
+453,Ayam gulai,153
+454,Gulai cumi,153
+455,Rendang daging,153
+456,Telur balado,153
+457,Dendeng balado,153
+458,Jengkol Balado,154
+459,Rendang daging,154
+460,krupuk kulit sapi,154
+461,Gulai kikil,154
+462,Perkedel,155
+463,sayur nangka,155
+464,Daun singkong,155
+465,Rendang daging,155
+466,Ayam bakar,155
+467,Gulai kikil,156
+468,Ayam bakar,156
+469,Gulai cumi,156
+470,Gulai ikan,156
+471,Udang balado,156
+472,Jengkol Balado,157
+473,Udang balado,157
+474,Ayam bakar,157
+475,Ayam goreng srundeng,157
+476,Gulai kikil,157
+477,Perkedel,158
+478,Rendang daging,158
+479,Ayam gpreng srundeng,158
+480,Gulai kikil,158
+481,Jengkol Balado,158
+482,Rendang daging,159
+483,Dendeng sambel ijo,159
+484,Telur Balado,159
+485,Perkedel,159
+486,Udang balado,160
+487,Rendang daging,160
+488,Ayam goreng,160
+489,Telur dadar rendang,160
+490,Jengkol Balado,160
+491,Sate kerang,161
+492,Kupat blengong,161
+493,Gorengan tahu tempe,161
+494,Sate blengong bakar,161
+495,Sate blengong masak,161
+496,Sate amepela blengong masak,162
+497,Sate blengong bakar,162
+498,Kupat glabed + sate blengong,162
+499,Sate kerang ,162
+500,Gorengan tahu tempe,162
+501,Sate blengong masak,163
+502,Sate bleengong bakar,163
+503,Kupat glabed + sate blengong bakar,163
+504,Sate kerang ,163
+505,Sate usus blengong masak,163
+506,Kupat glabed + sate blengong masak,164
+507,Kupat glabed + sate blengong bakar,164
+508,Mendoan tempe,164
+509,Sate kerang,164
+510,Sate telur puyuh,164
+511,Sate blengong masak,165
+512,Sate blengong bakar,165
+513,Kupat glabed,165
+514,Sate kerang,165
+515,Mendoan tempe,165
+516,Sate telur puyuh,166
+517,Sate usus blengong masak,166
+518,Kupat glabed,166
+519,Gorengan tahu ,166
+520,Sate kerang,167
+521,Kupat glabed,168
+522,kupat glabed + sate kerang,168
+523,Kupat glabed + sate blengong masak,168
+524,Kupat glabed + sate blengong bakar,168
+525,Mendoan tempe,168
+526,Sate blengong masak,169
+527,Gorengan tahu,169
+528,Mendoan tempe,169
+529,Sate kerang,169
+530,Kupat glabed,169
+531,Sate kerang,170
+532,Kupat glabed + sate kerang,170
+533,Kupat glabed + sate usus blengong masak,170
+534,Kupat glabed + sate blengong bakar,170
+535,Tahu aci,170
+536,Kupat glabed,171
+537,Sate kerang,171
+538,Sate blengong masak,171
+539,Sate blengong bakar,171
+540,Sate teyuh puyuh,171
+541,Sate kerang,172
+542,Sate blengong masak,172
+543,Sate blengong bakar,172
+544,Mendoan tempe,172
+545,Kupat glabed,172
+546,Gorengan tahu bakwan,173
+547,Sate kerang,173
+548,Kupat labed + sate blengong bakar,173
+549,Kupat glabed + sate blengong masak,173
+550,Sate usus blengong masak,173
+551,Kupat glabet + sate blengong masak,174
+552,Sate kerang,174
+553,Sate ampela blengong masak,174
+554,Sate ampela blengong bakar,174
+555,Mendoan tempe,174
+556,Kupat glabed,175
+557,Sate usus blengong masak,175
+558,Sate kerang,175
+559,Kupat glabed + sate blengong bakar,175
+560,Kupat glabed + sate blengong masak,176
+561,Blengong goreng,176
+562,Kupat glabed,176
+563,Sate kerang,176
+564,Goengan,176
+565,Kupat glabet + sate blengong masak,177
+566,Mendoan,177
+567,Sate telur puyuh,177
+568,Sate kerang,177
+569,Sate usus blengong masak,177
+570,Sate blengong masak,178
+571,Sate blengong bakar,178
+572,Kupat glabed,178
+573,Sate kerang,178
+574,Sate usus blengong masak,178
+575,Kupat glabet + sate blengong masak,179
+576,Sate kerang,179
+577,Gorengan tahu,179
+578,Sate tekur puyuh,179
+579,Sate blengong masak,179
+580,Sate usus blengong bakar,180
+581,Sate blengong bakar,180
+582,Sate telur puyuh,180
+583,Sate kerang,180
+584,Kupat + sate blengong,180
+585,Sate kerang,181
+586,Gorengan bakwan dan tahu,181
+587,Sate telur puyuh,181
+588,Sate blengong bakar,181
+589,Sate blengong masak,181
